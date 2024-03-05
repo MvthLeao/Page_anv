@@ -1,0 +1,16 @@
+.festa {
+    display: block;
+    text-align: center;
+    background-image: url(../images/fundo.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+    &__frase {
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+
+    &__data {
+        padding-bottom: 480px;
+    }
+}
